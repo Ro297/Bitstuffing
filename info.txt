@@ -1,0 +1,6 @@
+PythonVersion: 2.7 
+
+TextEncoding: UTF-8
+
+FLAG: 01111110
+
